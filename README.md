@@ -1,1 +1,1 @@
-# Tindog-Bootstrap-Site
+A website combining elements of HTML, CSS, and Bootstrap.
